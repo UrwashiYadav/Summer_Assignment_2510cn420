@@ -12,5 +12,3 @@ int main() {
     printf("Sum of digits: %d", sum);
     return 0;
 }
-
-
