@@ -13,4 +13,6 @@ int main()
         sum += i;
     }
     printf("Sum of first %d natural numbers is: %d", n, sum);
-    return
+    return0;
+    
+}
